@@ -23,13 +23,13 @@ fetch(url)
     .then(res => res.json())
     .then(appendElements);
         
-// function appendElements(data) {
-//     likes=data.likes;
-//     cardImage.src=data.image
-//     appendLikes()
+function appendElements(data) {
+    likes=data.likes;
+    cardImage.src=data.image
+    appendLikes()
     
   
-// }
+}
 
 // function appendLikes(){
 //     document.getElementById("like-count").className=`${ likes} likes`;
