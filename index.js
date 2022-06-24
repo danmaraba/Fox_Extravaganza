@@ -13,10 +13,10 @@ const commentButton = document.getElementsByClassName('comment-button');
 let likes=0;
 
 document.getElementById('like-button').addEventListener('click',addLikes)
-    // likes +=1;
-    // appendLikes();
+    likes +=1;
+    appendLikes();
 
-// document.getElementById('comment-form').addEventListener('submit',addComent)
+document.getElementById('comment-form').addEventListener('submit',addComent)
 
 
 // fetch(url)
