@@ -3,8 +3,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
 const url="https://randomfox.ca/floof/"
 
-// const cardTitle = document.getElementById('card-title');
-// const cardImage = document.getElementById('card-image');
+const cardTitle = document.getElementById('card-title');
+const cardImage = document.getElementById('card-image');
 // const likeCount = document.getElementById('like-count');
 // const commentsList = document.getElementById('comments-list');
 // const commentForm = document.getElementById('comment-form');
