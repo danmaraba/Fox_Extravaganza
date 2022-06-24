@@ -10,11 +10,11 @@ const commentsList = document.getElementById('comments-list');
 const commentForm = document.getElementById('comment-form');
 const likeButton = document.getElementById('like-button');
 const commentButton = document.getElementsByClassName('comment-button');
-// let likes=0;
+let likes=0;
 
-// document.getElementById('like-button').addEventListener('click',addLikes)
-//     // likes +=1;
-//     // appendLikes();
+document.getElementById('like-button').addEventListener('click',addLikes)
+    // likes +=1;
+    // appendLikes();
 
 // document.getElementById('comment-form').addEventListener('submit',addComent)
 
