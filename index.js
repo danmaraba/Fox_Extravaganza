@@ -31,9 +31,9 @@ function appendElements(data) {
   
 }
 
-// function appendLikes(){
-//     document.getElementById("like-count").className=`${ likes} likes`;
-// }
+function appendLikes(){
+    document.getElementById("like-count").className=`${ likes} likes`;
+}
    
 
 
