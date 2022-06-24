@@ -19,9 +19,9 @@ document.getElementById('like-button').addEventListener('click',addLikes)
 document.getElementById('comment-form').addEventListener('submit',addComent)
 
 
-// fetch(url)
-//     .then(res => res.json())
-//     .then(appendElements);
+fetch(url)
+    .then(res => res.json())
+    .then(appendElements);
         
 // function appendElements(data) {
 //     likes=data.likes;
