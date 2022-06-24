@@ -42,12 +42,12 @@ function appendComments(comments){
     comments.map.forEach(renderComment)
 }
 
-// function renderComment(comment){
-//     console.log(comment)
-//     const li=document.createElement('li')
-//     li.textContent =comment.content;
-//     commentsList.append(li);
-// }
+function renderComment(comment){
+    console.log(comment)
+    const li=document.createElement('li')
+    li.textContent =comment.content;
+    commentsList.append(li);
+}
 
 // function addComent(e){
 //     e.preventDefault();
