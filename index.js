@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
 })
 
-// const url="https://randomfox.ca/floof/"
+const url="https://randomfox.ca/floof/"
 
 // const cardTitle = document.getElementById('card-title');
 // const cardImage = document.getElementById('card-image');
