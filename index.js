@@ -37,10 +37,10 @@ function appendLikes(){
    
 
 
-// function renderComments(comments){
-//     commentsList.innerHTML='';
-//     comments.map.forEach(renderComment)
-// }
+function appendComments(comments){
+    commentsList.innerHTML='';
+    comments.map.forEach(renderComment)
+}
 
 // function renderComment(comment){
 //     console.log(comment)
