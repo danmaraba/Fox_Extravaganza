@@ -57,11 +57,11 @@ function addComent(e){
     e.target.reset();
 }
 
-// function addLikes(e){
-//     e.preventDefault();
-//     const likes= e.target.previousElementSibling;
-//     likes.textContent = parseInt(likes.textContent)+1
-// }
+function addLikes(e){
+    // e.preventDefault();
+    // const likes= e.target.previousElementSibling;
+    // likes.textContent = parseInt(likes.textContent)+1
+}
 
 
 
