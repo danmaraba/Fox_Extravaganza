@@ -50,11 +50,11 @@ function renderComment(comment){
 }
 
 function addComent(e){
-    // e.preventDefault();
-    // const commentText=e.target.comment.value;
-    // renderComment({content: commentText});
+    e.preventDefault();
+    const commentText=e.target.comment.value;
+    renderComment({content: commentText});
 
-    // e.target.reset();
+    e.target.reset();
 }
 
 // function addLikes(e){
