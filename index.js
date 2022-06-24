@@ -49,13 +49,13 @@ function renderComment(comment){
     commentsList.append(li);
 }
 
-// function addComent(e){
-//     e.preventDefault();
-//     const commentText=e.target.comment.value;
-//     renderComment({content: commentText});
+function addComent(e){
+    // e.preventDefault();
+    // const commentText=e.target.comment.value;
+    // renderComment({content: commentText});
 
-//     e.target.reset();
-// }
+    // e.target.reset();
+}
 
 // function addLikes(e){
 //     e.preventDefault();
