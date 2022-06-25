@@ -18,4 +18,4 @@ Fox_Extravaganza
  You can reach out to me via the email.
 
  ### License
- The project is under MIT The project is under MIT The project is under MIT
+ The project is under MIT The project is under MIT The project is under MIT The project is under MIT
