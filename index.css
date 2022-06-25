@@ -45,4 +45,11 @@
   .comment-input{
     border-radius: 2px;
     border-color: black;
+    margin-left: 10%;
+  }
+
+  .comment-button{
+    border-radius: 2px;
+    border-color: black;
+    margin-left: 10%;
   }
