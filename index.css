@@ -3,24 +3,25 @@
     margin-top: 100px;
     width:500px;
     height: 300px;
-    background-color:orange;
+    background-color:#999900;
     padding: 10%;
     margin-left: 30%;
     border-radius: 10px;
 
   }
 
-
+/* 
   .image{
-    width:300px;
-    height:250px;
-    margin-left: 30%;
+    width:350px;
+    height:300px;
+    margin-left: 26%;
     border-radius: 5px;
 
   }
 
   .title{
     margin-left: 50%;
+    margin-top: -14%;
 
   }
 
@@ -39,17 +40,19 @@
     background-color: red;
     border-radius: 2px;
     border-color: black;
+    margin-top: 4%;
 
   }
 
   .comment-input{
     border-radius: 2px;
     border-color: black;
-    margin-left: 20%;
+    margin-left: 35%;
+    margin-top: 3%;
   }
 
   .comment-button{
     border-radius: 2px;
     border-color: black;
-    margin-left: 20%;
-  }
+    
+  } */
