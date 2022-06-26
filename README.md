@@ -12,7 +12,7 @@ https://git@github.com:danmaraba/Fox_Extravaganza.git
  Cd Fox_Extravaganza
  Use vscode to open it
  ## Live Link
- ![Fox_Extravaganza](https://danmaraba.github.io/Fox_Extravaganza/)
+ https://danmaraba.github.io/Fox_Extravaganza/
  ## Technologies Used
  CSS
  HTML
