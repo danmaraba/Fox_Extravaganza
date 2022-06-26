@@ -7,7 +7,7 @@ Fox_Extravaganza
  ## Project Set Up Instructions
  CTRL+ALT+T to open the terminal
  Now git clone:
-
+git@github.com:danmaraba/Fox_Extravaganza.git
  Cd Fox_Extravaganza
  Use vscode to open it
  ## Technologies Used
